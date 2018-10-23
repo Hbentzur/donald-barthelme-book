@@ -9,6 +9,6 @@ At the end, I edited all in InDesign to a book anyone can print & bind at home (
 
 _ _ _ _
 
-### Scrape > Print > Bind > Book ⚡️
+Scrape > Print > Bind > Book ⚡️
 
 
