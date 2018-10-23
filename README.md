@@ -7,7 +7,11 @@ I used puppeteer to scrape and store texts, some array & JSON manipulations to d
 
 At the end, I edited all in InDesign to a book anyone can print & bind at home (or at the office since it's 120 pages long).
 
+
+
 _ _ _ _
+
+
 
 Scrape > Print > Bind > Book ⚡️
 
